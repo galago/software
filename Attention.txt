@@ -1,0 +1,20 @@
+REST API
+https://drive.google.com/drive/folders/0B5SPTqA80MG9aTBEUkxWM3ZiNkU?usp=sharing
+
+GITHUB
+git clone git@github.com:LEXiS-Platform/software.git 
+
+Database model and script fo create (MySQL)
+/backend/docs/database_structure.sql
+
+Dependencies for server Node Js
+/backend/package.json (npm i...)
+
+Working REST API services
+localhost:3000/clients/identification
+localhost:3000/clients/signup
+localhost:3000/clients/signin
+
+Access for database and other settings
+/backend/config.js
+
