@@ -6,7 +6,7 @@ module.exports = {
   //MySQL
   sqlHost: 'localhost',
   sqlDatabase: 'lexis',
-  sqlUser: 'root',
+  sqlUser: 'root-lexis',
   sqlPassword: 'niva621',
   page: 0,
   pageSize: 20,
