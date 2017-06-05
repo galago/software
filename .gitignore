@@ -28,3 +28,11 @@ Temporary Items
 
 #config file
 backend/config.js
+
+
+#node & React
+node_modules/
+public/static/build/
+public/static/config.js
+npm-debug.log
+.DS_Store
